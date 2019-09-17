@@ -1,0 +1,25 @@
+body {
+background-color: lightpink;
+font-weight: normal;
+font-style: normal;
+font-size: 1rem;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.heading{
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(246,241,108,1) 0%, rgba(0,212,255,1) 100%);
+    background-size: cover; 
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.content{
+
+}
+
+.footer{
+    
+}
